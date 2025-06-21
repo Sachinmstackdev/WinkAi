@@ -15,7 +15,7 @@ Built with Flutter, Mistral AI, Java, Supabase, and a stack of intelligent APIs 
   Detect, translate, and respond in 100+ languages automatically — breaking global language barriers.
 
 - 💬 **Chat Interface (Flutter)**  
-  Fast, responsive mobile UI for interactive messaging.
+  Fast,  responsive mobile UI for interactive messaging.
 
 - 🔗 **Backend with Supabase + Java APIs**  
   Handles real-time data, auth, and session logic securely.
