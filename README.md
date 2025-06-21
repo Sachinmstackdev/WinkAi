@@ -52,7 +52,7 @@ Built with Flutter, Mistral AI, Java, Supabase, and a stack of intelligent APIs 
 
 ---
 
-## 🔧 Setup (Local)
+## 🔧 Setup (Local )
 
 ```bash
 git clone https://github.com/yourusername/ai-global-chat-assistant.git
