@@ -6,7 +6,7 @@ Built with Flutter, Mistral AI, Java, Supabase, and a stack of intelligent APIs 
 
 ---
 
-## 🚀 Features
+## 🚀 Application Features
 
 - 🧠 **AI-Powered Auto Replies**  
   Suggest intelligent phrases and responses in real time using Mistral AI and NLP models.
